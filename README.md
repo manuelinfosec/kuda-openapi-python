@@ -1,4 +1,4 @@
-# Kuda Python
+# Kuda OpenAPI Python Library
 
 
 This is a lightweight library that works as a connector to [Kuda OpenAPI](https://kudabank.gitbook.io/kudabank/).
