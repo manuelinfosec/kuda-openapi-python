@@ -1,5 +1,5 @@
 # Kuda OpenAPI Python Library
-
+[![Documentation](https://img.shields.io/badge/docs-latest-blue)](https://kuda-python.readthedocs.io/)[![Code Style](https://img.shields.io/badge/code_style-black-black)](https://black.readthedocs.io/en/stable/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a lightweight library that works as a connector to [Kuda OpenAPI](https://kudabank.gitbook.io/kudabank/).
 
@@ -16,13 +16,14 @@ This is a lightweight library that works as a connector to [Kuda OpenAPI](https:
 
 ## Installation
 
-Coming to PyPi<br />
-While the repo is not yet on pip, simply clone this library and add to your project folder.
+```
+pip install kuda-python
+```
 
 
 ## Documentation
 
-Coming Soon
+[https://kuda-python.readthedocs.io](https://kuda-python.readthedocs.io)
   
 
 ## Getting started
@@ -74,7 +75,6 @@ from kuda import Kuda
 # email and apiKey are generated from your Kuda developer dashboard
 Kuda = Kuda(email='<email>', apiKey='<testApiKey>', show_request=True, sandbox=False, base_url="")
 
-  
 
 # Get bank list
 print(Kuda.bank_list())

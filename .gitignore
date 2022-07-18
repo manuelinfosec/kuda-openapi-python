@@ -3,3 +3,6 @@ keys.json
 test.py
 __pycache__
 .gitattributes
+build
+dist
+kuda_python.egg-info

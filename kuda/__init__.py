@@ -9,7 +9,6 @@ class Kuda():
     from kuda.api import bank_list
     from kuda.api import name_enquiry
     from kuda.api import create_virtual_account
-    # from kuda.api import get_all_virtual_accounts
     from kuda.api import get_virtual_single_account
     from kuda.api import single_fund_transfer
     from kuda.api import virtual_fund_transfer
