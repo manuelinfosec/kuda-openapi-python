@@ -66,7 +66,7 @@ print(Kuda.create_virtual_account(**params))
 
 [Kuda Test](https://kuda-openapi-uat.kudabank.com/v2) is available too.
 
-To use Kuda OpenAPI on Test, switch to test on your dashboard and copy apiKey (Live API still remains valid):
+To use Kuda OpenAPI on Test, switch to test on your dashboard and copy apiKey (Live apiKey still remains valid):
 
 ```python
 from kuda import Kuda
