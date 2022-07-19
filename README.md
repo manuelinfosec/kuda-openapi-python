@@ -168,7 +168,7 @@ There are 2 types of errors returned from the library:
 
         - `header` - Full response header.
 
-- `binance.error.ServerError`
+- `kuda.error.ServerError`
 
     - This is thrown when server returns `5XX`, it's an issue from server side.
 
