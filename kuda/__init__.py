@@ -41,7 +41,7 @@ class Kuda():
         if show_request: 
             self.show_request = True    
         else:
-            self.show_request = True
+            self.show_request = False
 
         if show_header: 
             self.show_header = True
