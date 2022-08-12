@@ -55,7 +55,7 @@ params = {
     'lastName': 'Manuel',
     'firstName': 'Infosec',
     'email': 'manuelinfosec@gmail.cm',
-    'phoneNumber': "+2349131103073",
+    'phoneNumber': "09131103073",
     'trackingRef': Kuda.get_ref(10) # you can generate your trackingReference some other way you choose.
 }
   
@@ -87,11 +87,10 @@ print(Kuda.name_enquiry(2005161838, "999129"))
 
 
 # Create virtual account
-
 params = {
     'lastName': 'Manuel',
     'firstName': 'Infosec',
-    'email': 'manuelinfosec@gmail.cm',
+    'email': 'manuelinfosec@gmail.com',
     'phoneNumber': "+2349131103073",
     'trackingRef': Kuda.get_ref(10) # you can generate your trackingReference some other way you choose.
 }
