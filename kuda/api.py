@@ -64,6 +64,7 @@ def create_virtual_account(self,
     data = {
         "email": email, 
         "phoneNumber": phoneNumber, 
+        "lastName": lastName,
         "firstName": firstName, 
         "trackingReference": trackingRef
         }

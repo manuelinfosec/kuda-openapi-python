@@ -1,0 +1,8 @@
+v1.0.0 (Major):
+    - First Release on PyPI
+
+v1.0.1 (Patch):
+    - Fixed issue with displaying request metadata.
+
+v1.1.0 (Minor):
+    - Fixed issue with creating virtual accounts.
