@@ -23,7 +23,11 @@ pip install kuda-python
 
 ## Documentation
 
-[https://kuda-python.readthedocs.io](https://kuda-python.readthedocs.io)
+Docs:
+[https://kuda-python.readthedocs.io](https://kuda-python.readthedocs.io) (Coming Soon)
+
+Descriptive article on Medium:
+https://manuelinfosec.medium.com/python-integration-with-the-kuda-open-banking-api-kuda-python-112606ff989d
   
 
 ## Getting started
